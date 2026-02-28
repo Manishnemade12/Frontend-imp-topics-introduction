@@ -5,6 +5,7 @@ AIzaSyB4kQmd1vMrFHaL6dCNjVhefYUGz2mXaTM
 > Each topic listed here will have its own dedicated detailed documentation file.
 
 ---
+ GROQ API =   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
 
 ## 📁 Table of Contents
 
