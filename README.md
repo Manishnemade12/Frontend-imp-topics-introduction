@@ -1,3 +1,4 @@
+AIzaSyB4kQmd1vMrFHaL6dCNjVhefYUGz2mXaTM
 # 📚 Frontend Knowledge Base — Index
 
 > **Purpose:** This document serves as the master index for the frontend knowledge base.
